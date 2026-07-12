@@ -1,10 +1,10 @@
 # [level 0] 팩토리얼 - 120848 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120848?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120848?language=python3) 
 
 ### 성능 요약
 
-메모리: 4.95 MB, 시간: 0.00 ms
+메모리: 11.7 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 12일 18:41:37
+2026년 07월 12일 18:56:59
 
 ### 문제 설명
 
