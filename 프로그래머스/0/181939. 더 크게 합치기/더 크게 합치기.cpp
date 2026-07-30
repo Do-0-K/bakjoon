@@ -11,6 +11,4 @@ int solution(int a, int b) {
     string ba = to_string(b) + to_string(a);
 
     return max(stoi(ab), stoi(ba));
-    
-    return answer;
 }
