@@ -1,10 +1,10 @@
 # [level 0] 모음 제거 - 120849 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120849?language=cpp) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120849) 
 
 ### 성능 요약
 
-메모리: 4.95 MB, 시간: 0.01 ms
+메모리: 4.82 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 07월 12일 19:18:41
+2026년 07월 30일 15:51:36
 
 ### 문제 설명
 

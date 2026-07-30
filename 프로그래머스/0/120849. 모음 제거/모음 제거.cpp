@@ -1,14 +1,16 @@
 #include <string>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
 string solution(string my_string) {
-    string answer = "";
-    for (char c : my_string) {
-        if (c != 'a' && c != 'e' && c != 'i' && c != 'o' && c != 'u') {
-            answer += c;
-        }
+    string v = "aeiou";
+
+    for (char c : v) {
+        my_string.erase(remove(my_string.begin(), my_string.end(), c),
+                        my_string.end());
     }
-    return answer;
+
+    return my_string;
 }
