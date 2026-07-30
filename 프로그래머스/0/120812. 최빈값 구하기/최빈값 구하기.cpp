@@ -9,10 +9,6 @@ int solution(vector<int> array) {
     int max=0;
     int max_cnt=0;
     
-    if(array.size()==1){
-        return answer = array[0];
-    }
-    
     for(int i=0;i<array.size();++i){
         arr[array[i]]++;
     }
