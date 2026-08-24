@@ -1,10 +1,10 @@
 # [level 2] N개의 최소공배수 - 12953 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12953) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12953?language=cpp) 
 
 ### 성능 요약
 
-메모리: 11.3 MB, 시간: 0.01 ms
+메모리: 4.95 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 08월 23일 20:48:09
+2026년 08월 24일 10:43:23
 
 ### 문제 설명
 
