@@ -10,5 +10,5 @@ def solution(elements):
         for length in range(n):
             total += elements[start + length]
             answer.add(total)
-    
+        
     return len(answer)
