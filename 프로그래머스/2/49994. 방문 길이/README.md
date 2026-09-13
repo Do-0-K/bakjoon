@@ -1,10 +1,10 @@
 # [level 2] 방문 길이 - 49994 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49994) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49994?language=cpp) 
 
 ### 성능 요약
 
-메모리: 11.4 MB, 시간: 0.32 ms
+메모리: 4.82 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 09월 11일 16:00:08
+2026년 09월 13일 13:43:10
 
 ### 문제 설명
 
